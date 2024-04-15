@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Administrador de Docentes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Administrador de Docentes</h1>
+  
+  <!-- Formulario para agregar o actualizar un docente -->
+  <form id="docente-form">
+    <input type="text" id="tipoDocumento" placeholder="Tipo Documento" required>
+    <input type="text" id="nombre" placeholder="Nombre" required>
+    <input type="text" id="apellido" placeholder="Apellido" required>
+    <input type="text" id="fechaNacimiento" placeholder="Fecha Nacimiento (DD/MM/AAAA)" required>
+    <input type="text" id="nivelEstudios" placeholder="Nivel de Estudios" required>
+    <input type="text" id="areaPertenencia" placeholder="Área de Pertenencia" required>
+    <input type="text" id="grado" placeholder="Grado" required>
+    <input type="text" id="eps" placeholder="EPS" required>
+    <input type="number" id="salario" placeholder="Salario" required>
+    <button id="submit-btn" type="submit">Agregar/Actualizar Docente</button>
+  </form>
+
+  <!-- Lista de docentes -->
+  <div id="docentes-list"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
