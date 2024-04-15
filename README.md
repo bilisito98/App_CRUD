@@ -4,4 +4,5 @@ aplicación web tipo CRUD que permita administrar la información de los estudia
 
 
 Ejemplo_primerRegistro:
-![image](CRUD\example.png)
+![example](https://github.com/bilisito98/App_CRUD/assets/102624868/abf827fe-92dd-4bf5-92f3-3a1b7097c5b5)
+
