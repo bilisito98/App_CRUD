@@ -4,4 +4,4 @@ aplicación web tipo CRUD que permita administrar la información de los estudia
 
 
 Ejemplo_primerRegistro:
-![image](C:\Users\asdda\OneDrive\Desktop\Proyecto\App_CRUD\CRUD\example.png)
+![image](CRUD\example.png)
